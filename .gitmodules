@@ -1,0 +1,12 @@
+[submodule "operating_system"]
+	path = operating_system
+	url = ../netbsd-operating_system
+	branch = main
+[submodule "port"]
+	path = port
+	url = ../netbsd-port
+	branch = main
+[submodule "source"]
+	path = source
+	url = ../simple-source
+	branch = main
